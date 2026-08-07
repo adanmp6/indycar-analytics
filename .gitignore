@@ -8,15 +8,16 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# IDE
+# VS Code
 .vscode/
 
-# Environment variables
+# Environment
 .env
+.env.*
 
 # OS files
 .DS_Store
 Thumbs.db
 
-# Large/raw data
-data/raw/*
+# Raw data
+data/raw/
